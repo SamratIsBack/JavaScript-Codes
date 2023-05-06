@@ -25,4 +25,20 @@
 // console.log(name);
 // const name1 =undefined ?? 'John';
 // console.log(name1);
+// ***Comma Operator***
+
+// let x=10;
+// x++;
+// let y=x+1;
+// console.log(x,y);
+// let x=10;
+// let y=(x++,x+1);
+// console.log(x,y);
+// ****Javascript Functions***
+// const fun=(...x)=>
+// {
+//     console.log(x);
+// }
+
+// fun(2,4,5);
 
