@@ -34,11 +34,4 @@
 // let x=10;
 // let y=(x++,x+1);
 // console.log(x,y);
-// ****Javascript Functions***
-// const fun=(...x)=>
-// {
-//     console.log(x);
-// }
-
-// fun(2,4,5);
 
