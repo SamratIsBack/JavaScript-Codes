@@ -19,9 +19,4 @@
 // let bignum=99999999n;
 // console.log(typeof bignum);
 
-// ****Nullish Coalescing Operator***
 
-// const name = null ?? 'John';
-// console.log(name);
-// const name1 =undefined ?? 'John';
-// console.log(name1);
