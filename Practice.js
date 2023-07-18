@@ -25,4 +25,3 @@
 // console.log(name);
 // const name1 =undefined ?? 'John';
 // console.log(name1);
-//hello
