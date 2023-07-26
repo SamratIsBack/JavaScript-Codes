@@ -16,7 +16,6 @@
 // console.log(typeof obj);
 // let arr=[2,4,5];
 // console.log(typeof arr);
-// let bignum=99999999n;
-// console.log(typeof bignum);
+
 
 
