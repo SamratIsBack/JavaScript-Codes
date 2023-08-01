@@ -13,9 +13,7 @@
 //     age:29,
 //     sal:40000
 // };
-// console.log(typeof obj);
-// let arr=[2,4,5];
-// console.log(typeof arr);
+
 
 
 
