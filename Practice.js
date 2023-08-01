@@ -6,7 +6,7 @@
 // let num=1797;
 // console.log(typeof num);
 // let bol=true;
-// console.log(typeof bol);
+
 
 
 
