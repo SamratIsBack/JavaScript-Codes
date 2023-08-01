@@ -4,7 +4,6 @@
 // let str='hello';
 // console.log(typeof str);
 // let num=1797;
-// console.log(typeof num);
 
 
 
