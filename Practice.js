@@ -7,12 +7,6 @@
 // console.log(typeof num);
 // let bol=true;
 // console.log(typeof bol);
-// let obj=
-// { 
-//     name:'Samrat',
-//     age:29,
-//     sal:40000
-// };
 
 
 
